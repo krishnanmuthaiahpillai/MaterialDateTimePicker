@@ -16,7 +16,7 @@ import com.arsvisions.materialdatetimepicker.date.DatePickerDialog;
 import java.util.Calendar;
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclass
  */
 public class DatePickerFragment extends Fragment implements DatePickerDialog.OnDateSetListener {
 
